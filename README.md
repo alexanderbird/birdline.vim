@@ -6,10 +6,10 @@ My personal statusline customizations
 ![Color and ascii faces changing based on file status](README/faces.gif?raw=true 'Ascii faces and color change to indicate file stats')
 
 ## Status line content adjusts based on window width
-![Responsive content](README/responsive.mp4?raw=true 'Responsive Content')
+![Responsive content](README/responsive.gif?raw=true 'Responsive Content')
 
 ## File path shown relative to current working directory
-![File path shown relative to current working directory](README/relative-paths.mp4?raw=true 'File path shown relative to current working directory')
+![File path shown relative to current working directory](README/relative-paths.gif?raw=true 'File path shown relative to current working directory')
 
 ## Customize colors with
 
