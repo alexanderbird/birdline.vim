@@ -2,11 +2,16 @@
 
 My personal statusline customizations
 
-- File status indicated by color and ascii faces
-  - ![color and ascii faces](README/faces.gif?raw=true 'Ascii Faces')
-- responsive based on window width
+## File status indicated by color ans ascii faces
+![Color and ascii faces changing based on file status](README/faces.gif?raw=true 'Ascii faces and color change to indicate file stats')
 
-Customize colors with:
+## Status line content adjusts based on window width
+![Responsive content](README/responsive.mp4?raw=true 'Responsive Content')
+
+## File path shown relative to current working directory
+![File path shown relative to current working directory](README/relative-paths.mp4?raw=true 'File path shown relative to current working directory')
+
+## Customize colors with
 
 ```vimscript
 highlight StatusLineWhenInactive ctermbg=LightGray ctermfg=DarkGrey
